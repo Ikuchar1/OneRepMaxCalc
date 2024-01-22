@@ -30,5 +30,5 @@ function updateText(){
 
     if(max !== 0){
         resultText.textContent = "Your one rep max is " + max + " lbs!";
-    }
+    } 
 }
